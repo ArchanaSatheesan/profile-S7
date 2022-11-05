@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+   /* background-size:cover;*/
+   /*background-color:blue;*/
+}
+
+.row{
+   /* background-color:rgb(243, 245, 246);*/
+    background-color:rgb(243, 245, 246);
+
+    color:black;
+}
+
+.row #mypic{
+    background-size: cover;
+    
+}
+
+/*.col-md-4 img{
+    padding-right: 10%;
+}*/
+.row #student{
+    margin-top: 130px;
+}
+.row #student h3{
+font-size: larger;
+
+}
+
+
+.row #about p{
+font-size:x-large;
+
+}
+
+.col-md-4 #blocks{
+    border: 1px solid black;
+    padding: 2%;
+    background-color:rgb(173, 176, 178);
+    margin-top: 2%;
+    height:10em ;
+}
+
+.col-md-4 #blocks:hover{
+    background-color:gray;
+    color:white;
+}
+
+.col-md-4 #blocks li{
+    font-size: large;
+    list-style:square;
+}
+
+
+.col-md-4{
+    background-color: ;
+}
+
+#footer{
+    background-color: black;
+    color: aliceblue;
+    height:3em;
+    text-align: center;
+    padding-top: 6px;
+}
